@@ -1,0 +1,11 @@
+Installation Steps:
+Key required during Installation:
+Install W10 using this Product Key: VK7JG-NPHTM-C97JM-9MPGT-3V66T
+
+
+Activation Steps:
+Open CMD as Admin and use below commands one by one
+
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+slmgr /skms kms8.msguides.com
+slmgr /ato
